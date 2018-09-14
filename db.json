@@ -1,0 +1,32 @@
+{"alunos" : [
+    {   "matricula" : 12345,
+        "nome" : "José Maria",
+        "curso" : "TSI",
+        "ano": 4
+    },
+    {
+        "matricula" : 67483,
+        "nome" : "Alana Silva",
+        "curso" : "Informática",
+        "ano": 3
+    },
+    {
+        "matricula" : 90002,
+        "nome" : "Priscila Seabra",
+        "curso" : "Informática",
+        "ano": 2
+    },
+    {
+        "matricula" : 34354,
+        "nome" : "Adriana Oliveira",
+        "curso" : "Mecatrônica",
+        "ano": 4
+    },
+    {
+        "matricula" : 84332,
+        "nome" : "Álvaro Silva",
+        "curso" : "Mecatrônica",
+        "ano": 1
+    }
+    ]
+}
